@@ -8,8 +8,9 @@ Paso de instalación, se debe tener una version superior a python 2.7.
     * pip install selenium
 * Descargar el  webdriver de Chrome
     * https://sites.google.com/a/chromium.org/chromedriver/
-* Descargar el IDE para configurar o grabar las interacciones del usuario
+* Descargar el IDE para configurar o grabar las interacciones del usuario(En la maquina donde se realiza las grabaciones)
     * https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
-*  Descargar el binary de chrome
+*  Descargar el rpm para el binary de chrome
     * wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
-*   yum localinstall google-chrome-stable_current_x86_64.rpm
+*   Instalar el RPM del binary del chrome
+    * yum localinstall google-chrome-stable_current_x86_64.rpm
