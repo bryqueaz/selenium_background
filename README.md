@@ -8,6 +8,7 @@ Paso de instalación, se debe tener una version superior a python 2.7.
     * pip install selenium
 * Descargar el  webdriver de Chrome
     * https://sites.google.com/a/chromium.org/chromedriver/
+    * Guardar la ruta en driver en lugar especifico en el servidor
 * Descargar el IDE para configurar o grabar las interacciones del usuario(En la maquina donde se realiza las grabaciones)
     * https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
 *  Descargar el rpm para el binary de chrome
