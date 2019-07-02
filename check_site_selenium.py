@@ -2,6 +2,7 @@
 '''
 Develop: Bryan Quesada Azofeifa | bryan@gridshield.net
 Date: Thu Apr  4 17:05:16 CST 2019
+License: GNU General Public License(GPL)
 Version: 1.0
 Usage:
 
