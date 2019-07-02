@@ -1,6 +1,6 @@
 # selenium_background CentOS_7
 
-Este es un pequeño ejemplo para correr  
+Este es un pequeño ejemplo para correr en background, esto quiere decir que no va interactura el navegador, para ello se uso chrome.
 
 Paso de instalación, se debe tener una version superior a python 2.7. 
 
