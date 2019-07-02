@@ -14,3 +14,6 @@ Paso de instalación, se debe tener una version superior a python 2.7.
     * wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
 *   Instalar el RPM del binary del chrome
     * yum localinstall google-chrome-stable_current_x86_64.rpm
+* Por último descargar el codigo de pruebas
+    * https://github.com/bryqueaz/selenium_background/blob/master/check_site_selenium.py
+    * Reemplazar la ruta de chromedriver
