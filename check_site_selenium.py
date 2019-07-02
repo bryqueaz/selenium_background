@@ -1,4 +1,13 @@
 # coding: utf-8
+
+'''
+Develop: Bryan Quesada Azofeifa | bryan@gridshield.net
+Date: Thu Apr  4 17:05:16 CST 2019
+Version: 1.0
+Usage:
+
+'''
+
 import codecs
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
