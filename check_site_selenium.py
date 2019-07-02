@@ -1,5 +1,4 @@
 # coding: utf-8
-
 '''
 Develop: Bryan Quesada Azofeifa | bryan@gridshield.net
 Date: Thu Apr  4 17:05:16 CST 2019
