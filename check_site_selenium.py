@@ -12,7 +12,7 @@ options = Options()
 options.add_argument('--headless')
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-gpu')  # Last I checked this was necessary.
-driver = webdriver.Chrome('/gms/etc/pluginsconf/selenium_webdriver_chrome/chromedriver', chrome_options=options)
+driver = webdriver.Chrome('/opt/selenium_webdriver_chrome/chromedriver', chrome_options=options) # change path chromedriver
 print ("Headless Chrome Initialized")
 driver.get("https://www.gridshield.com/")
 page = driver.page_source
