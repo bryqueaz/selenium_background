@@ -28,3 +28,4 @@ page = driver.page_source
 file_r = codecs.open('page.html', 'w', encoding='utf8')
 file_r.write(page)
 file_r.close()
+driver.quit()
